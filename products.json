@@ -10,5 +10,179 @@
     "image": "https://i.imgur.com/X7QSPjW.png",
     "price": "₹25/kg",
     "category": "Vegetable"
+  },
+  {
+    "name": "Onion",
+    "image": "https://i.imgur.com/KyqMfZk.png",
+    "price": "₹20/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Cabbage",
+    "image": "https://i.imgur.com/FNxykI8.png",
+    "price": "₹18/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Carrot",
+    "image": "https://i.imgur.com/Wa0jZol.png",
+    "price": "₹40/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Cauliflower",
+    "image": "https://i.imgur.com/C1CLqBe.png",
+    "price": "₹35/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Brinjal",
+    "image": "https://i.imgur.com/GUNVxHb.png",
+    "price": "₹22/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Spinach",
+    "image": "https://i.imgur.com/SXMDlHu.png",
+    "price": "₹15/bunch",
+    "category": "Leafy"
+  },
+  {
+    "name": "Bottle Gourd",
+    "image": "https://i.imgur.com/Mi4cz1D.png",
+    "price": "₹30/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Lady Finger",
+    "image": "https://i.imgur.com/QxM9ihf.png",
+    "price": "₹28/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Pumpkin",
+    "image": "https://i.imgur.com/7dWvYO5.png",
+    "price": "₹16/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Radish",
+    "image": "https://i.imgur.com/BCiTDu7.png",
+    "price": "₹18/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Green Peas",
+    "image": "https://i.imgur.com/r94bbXJ.png",
+    "price": "₹60/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Corn",
+    "image": "https://i.imgur.com/mZ3qz8M.png",
+    "price": "₹45/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Chilli",
+    "image": "https://i.imgur.com/izv9DKF.png",
+    "price": "₹20/100g",
+    "category": "Spice"
+  },
+  {
+    "name": "Garlic",
+    "image": "https://i.imgur.com/MdOkMXT.png",
+    "price": "₹80/kg",
+    "category": "Spice"
+  },
+  {
+    "name": "Ginger",
+    "image": "https://i.imgur.com/T0X0py9.png",
+    "price": "₹70/kg",
+    "category": "Spice"
+  },
+  {
+    "name": "Beetroot",
+    "image": "https://i.imgur.com/Ip36TTy.png",
+    "price": "₹30/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Broccoli",
+    "image": "https://i.imgur.com/RzIrfIB.png",
+    "price": "₹55/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Capsicum",
+    "image": "https://i.imgur.com/ocqJgCW.png",
+    "price": "₹60/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Zucchini",
+    "image": "https://i.imgur.com/v6B4YPB.png",
+    "price": "₹75/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Mushroom",
+    "image": "https://i.imgur.com/UIP8pZP.png",
+    "price": "₹120/kg",
+    "category": "Fungus"
+  },
+  {
+    "name": "Turnip",
+    "image": "https://i.imgur.com/GQWYYoA.png",
+    "price": "₹28/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Coriander",
+    "image": "https://i.imgur.com/TX2v3dI.png",
+    "price": "₹10/bunch",
+    "category": "Leafy"
+  },
+  {
+    "name": "Fenugreek Leaves",
+    "image": "https://i.imgur.com/ABNjMYC.png",
+    "price": "₹15/bunch",
+    "category": "Leafy"
+  },
+  {
+    "name": "Cucumber",
+    "image": "https://i.imgur.com/eiF9bz4.png",
+    "price": "₹25/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Drumstick",
+    "image": "https://i.imgur.com/ZJqA2n0.png",
+    "price": "₹40/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Sweet Potato",
+    "image": "https://i.imgur.com/6eR5KzY.png",
+    "price": "₹35/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Yam",
+    "image": "https://i.imgur.com/Of2pTqf.png",
+    "price": "₹40/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Leeks",
+    "image": "https://i.imgur.com/kOKeVDg.png",
+    "price": "₹50/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Spring Onion",
+    "image": "https://i.imgur.com/RZxdCI2.png",
+    "price": "₹30/bunch",
+    "category": "Vegetable"
   }
 ]
