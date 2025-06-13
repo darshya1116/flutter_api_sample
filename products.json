@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tomato",
+    "image": "https://i.imgur.com/Fw7ZVZx.png",
+    "price": "₹30/kg",
+    "category": "Vegetable"
+  },
+  {
+    "name": "Potato",
+    "image": "https://i.imgur.com/X7QSPjW.png",
+    "price": "₹25/kg",
+    "category": "Vegetable"
+  }
+]
